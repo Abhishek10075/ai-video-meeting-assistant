@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.venv/
+venv/
+
+# Downloaded audio/video
+downloades/
+
+# Chroma database
+vector_db/
+
+# Whisper cache
+models/
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
