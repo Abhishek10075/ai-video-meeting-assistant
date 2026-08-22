@@ -1,5 +1,6 @@
 <img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/a64a7441-4040-4737-99ad-a08962403b57" />
 
+<img width="1915" height="894" alt="image" src="https://github.com/user-attachments/assets/7a5b619e-2c06-4637-b88e-ac5ba84287a1" />
 
 
 # 🤖 AI Video Meeting Assistant
