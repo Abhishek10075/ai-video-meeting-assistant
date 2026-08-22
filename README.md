@@ -1,3 +1,7 @@
+<img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/a64a7441-4040-4737-99ad-a08962403b57" />
+
+
+
 # 🤖 AI Video Meeting Assistant
 
 An AI-powered Meeting Assistant that analyzes YouTube videos and local audio files. It transcribes speech, generates meeting summaries, extracts action items, key decisions, and open questions, and provides an intelligent chat interface using Retrieval-Augmented Generation (RAG).
